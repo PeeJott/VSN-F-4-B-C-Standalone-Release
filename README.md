@@ -12,10 +12,11 @@ interesting to fly :-)
 
 Patch Version 2.9.10.206
 
--dynamic spawning on carriers enabled
--carrier launches checked
+- dynamic spawning on carriers enabled
+- carrier launches checked
 ---------------------------------------------------------------------------------------------------
 Patch Version 2.9.5.205
+
 - new collision model 
 - new suspension code 
 - refined 3d-externals (ramps and intakes etc.)
